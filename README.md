@@ -4,7 +4,7 @@
 <p>This extension is not yet on chrome store, follow the steps below to install</p>
 <ul>
 <li>Download or clone this repo</li>
-<li>Open chrome extension tab <code>chrome://extension</code><li>
+<li>Open chrome extension tab <code>chrome://extension</code></li>
 <li>Click on Load Unpacked</li>
 <li>Select the folder where the extension is, the one you downloaded</li>
 <li>The extension will be added </li>
